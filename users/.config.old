@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # RLX Linux builder
-# Thu Jan  5 15:50:11 2012
+# Mon Jan 29 19:01:42 2024
 #
 
 #
@@ -111,3 +111,8 @@ CONFIG_APP_WSC=y
 # CONFIG_APP_EXAMPLE is not set
 # CONFIG_APP_DLNA_DMS is not set
 # CONFIG_APP_MT_DAAPD is not set
+# CONFIG_APP_DROPBEAR is not set
+# CONFIG_LIB_PCAP is not set
+# CONFIG_APP_TCPDUMP is not set
+# CONFIG_LIB_NET is not set
+# CONFIG_APP_ETTERCAP is not set
